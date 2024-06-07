@@ -1,8 +1,11 @@
- 
-# iOS Developer and Software Engineer
+ # iOS Developer and Software Engineer
+
 <br/>
+
 ## SUMMARY
+
 <br/>
+
 Self-motivated and organized professional with over 9+ years of experience providing top-quality software development services. Experience working with iOS, XCode, and Swift, following today’s best coding practices and design patterns to deliver user-friendly and efficient solutions while contributing to collaborative teams.
 
 * Over 9+ years of experience with iOS mobile application development using XCode, Objective C, and Swift to build apps for iPad and iPhone.
