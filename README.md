@@ -77,7 +77,7 @@ Advanced healthcare application that enables real-time cardiology report monitor
   <details>
   <summary>All details</summary>
 
-  * Consume API to get 30 days and 90 days Healthy Reports and open them in native PDF Viewer
+  * Consume API to get 30 and 90 days Healthy Reports and open them in native PDF Viewer
     
   * Built a dynamic badge notification system with pagination support for unread reports
     
