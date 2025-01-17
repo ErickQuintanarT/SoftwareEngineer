@@ -12,51 +12,51 @@
 
 <br/>
 
-* Over 9+ years of experience with iOS mobile application development using Swift, SwiftUI, XCode, and Objective-C, to build apps for iPad and iPhone.
+Self-motivated and organized professional with over 10+ years of experience providing top-quality software development services. Experience working with iOS, XCode, Swift, and SwiftUI, following today’s best coding practices and design patterns to deliver user-friendly and efficient solutions while contributing to collaborative teams.
 
 <details>
   <summary>All details</summary>
 
+* Experience using different design patterns like MVC, MVVM, Singleton, Delegate, Observer 
 
-* Following the best coding practices and design patterns as core architectural design.
+* Utilized UIKit framework, Auto-layouts, Size classes, XIBs, and manual coding to build beautiful User Interfaces to promote awesome user experiences
 
-* Experience with Singleton, Delegate, Observer, and Publisher-Subscriber design patterns.
+* Worked with data persistence using NSUserDefaults, Core Data, PList, Settings Bundle, and SQLite
 
-* Experience working with UI/UX implementing Auto layout, Size classes, Xib’s, and Programmatic statements.
+* Experience in database migrations (Realm to SQLite) and mixed codebase management
 
-* Currently learning Swift UI
+* Consumed RESTful web API services with XML and JSON parsing
 
-* Worked with data persistence using NSUserDefaults, Core Data, Plist, Settings Bundle, and SQLite.
+* Implemented authentication with Touch ID and Keychain for sensitive data
 
-* Worked with multiple advanced frameworks for communications like Bluetooth, Wifi, VOIP, and HLS (HTTP Life Stream).
+* Experience with Firebase Cloud Messaging (FCM) for comprehensive push notification systems
 
-* Experience in creating apps that consume RESTful web services with XML and JSON parsing.
+* Deep linking implementation using Branch.io for enhanced user flows
 
-* Experience implementing Authentication along with Touch ID and Key Chain for sensitive data.
+* Subscription-based payment system implementation with StoreKit and RMStore
 
-* Experience implementing Push Notifications.
+* Worked with Core Graphics to implement dynamic animations on different UIControls 
 
-* I have Valuable experience in the entire software development life cycle including requirements gathering, design, coding, and testing.
+* Complete understanding of iOS memory management (i.e. ARC )
 
-* Experience working with Core Graphics implementing dynamic animations on different controls.
+* Written unit testing with XCTest, done performance, memory consumption, and debug analysis with Instruments
 
-* Experience with MRR (Manual Retain Release) and ARC (Automatic Reference Counting) memory management.
+* Written concurrent and multithreaded code using GCD and NSOperationQueue 
 
-* Experience with testing the application’s performance and memory consumption using XCTest and Instruments.
+* Deep knowledge and usage of  dependency managers for iOS such as Cocoapod, Carthage
 
-* Experience with multithreading applications using GCD (Grand Central Dispatch) and NSOperationQueue.
+* Deep understanding and usage of version control systems like Git, GitHub, Bitbucket, SourceTree, and console 
 
-* Worked with dependency manager for iOS (Cocoa-pods and Carthage)
+* Utilized Agile Scrum development using tools like JIRA and Slack for tracking tasks and assigning story points
 
-* Experience using Git: GitHub, Bitbucket, SourceTree, and console.
+* Knowledge of CI/CD, DevOps, and deploying apps for testing and into the App Store
 
-* Fluently with the most popular programming languages such as C, C++, Objective C, C#, Visual Basic, Java, JavaScript, and PHP.
+* Experienced in the entire software development life cycle ( S.D.L.C )
 
-* Knowledge of multiple web-related technologies like HTML, CSS, and JavaScript.
+* Extremely dependable team member with a natural tendency to mentor others.
 
-* Extremely dependable team member with a natural tendency to mentor others. I like to help and teach others
+* Experience in the control and management of IT projects including price estimations, requirement gathering, and development 
 
-* Experience with management IT projects including price estimations, requirement gathering, and development.
 </details>
 
 <br/>
@@ -66,6 +66,61 @@
 <br/>
 
 ## EXPERIENCE
+
+### Sr. iOS Developer Multiple Projects - Dec 2024 - Jan 2025
+
+&nbsp;&nbsp;**Conneqt by CardieX**
+&nbsp;&nbsp;https://apps.apple.com/us/app/conneqt-health/id1573968788
+
+Advanced healthcare application that enables real-time cardiology report monitoring and management. The app provides healthcare professionals instant access to patient reports, features comprehensive push notification systems, and facilitates secure data sharing between providers and patients.
+
+  <details>
+  <summary>All details</summary>
+
+  * Consume API to get 30 days and 90 days Healthy Reports and open them in native PDF Viewer
+    
+  * Built a dynamic badge notification system with pagination support for unread reports
+    
+  * Engineered custom navigation architecture for improved UI/UX stability
+    
+  * Architected and implemented a comprehensive push notification system using Firebase Cloud Messaging (FCM)
+    
+  * Developed robust deep linking architecture using Branch.io for enhanced user flows and account management
+    
+  * Implemented secure user profile management with image-handling capabilities
+    
+  * Enhanced user experience through real-time report status updates and efficient background processing
+    
+  * Technologies used: Swift, UIKit, Firebase, Branch.io, RESTful APIs, Git/SourceTree
+    
+  * MVC architecture design, Agile Scrum-based team with 2 weeks sprints
+  </details>
+
+  <br/>
+  
+&nbsp;&nbsp;**Gymboss Timer by Denovo Studios  **
+&nbsp;&nbsp;[https://apps.apple.com/us/app/conneqt-health/id1573968788](https://apps.apple.com/us/app/gymboss-interval-timer/id500887448)
+
+Professional fitness interval timer application enabling users to create, customize, and manage complex workout routines. Features include multiple interval types, countdown timers, customizable visual/audio alerts, and subscription-based premium features.
+
+  <details>
+  <summary>All details</summary>
+
+  * Led successful migration from Realm to SQLite database, implementing robust data persistence
+    
+  * Orchestrated transition from legacy Objective-C to modern Swift architecture while maintaining stability
+    
+  * Implemented a subscription-based payment system while preserving backward compatibility
+    
+  * Developed a comprehensive timer management system supporting multiple interval types
+    
+  * Improved app load time by 40% through optimized database queries
+    
+  * Technologies used: Swift 5, Objective-C, UIKit, AVFoundation, StoreKit, SQLite, RMStore
+  
+  </details>
+
+  <br/>
 
 ### Sr. iOS Developer
 
