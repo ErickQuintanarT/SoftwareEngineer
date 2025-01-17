@@ -98,7 +98,7 @@ Advanced healthcare application that enables real-time cardiology report monitor
 
   <br/>
   
-&nbsp;&nbsp;**Gymboss Timer by Denovo Studios  **
+&nbsp;&nbsp;**Gymboss Timer by Denovo Studios**
 &nbsp;&nbsp;[https://apps.apple.com/us/app/conneqt-health/id1573968788](https://apps.apple.com/us/app/gymboss-interval-timer/id500887448)
 
 Professional fitness interval timer application enabling users to create, customize, and manage complex workout routines. Features include multiple interval types, countdown timers, customizable visual/audio alerts, and subscription-based premium features.
